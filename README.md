@@ -29,7 +29,7 @@ Figma (UI/UX Design)
 
 ## 🔗 Figma Design
 
-< link will be added soon >
+https://www.figma.com/design/C4VZOTFE4v9O9tYuqJy2iV/FOOD-APP?node-id=0-1&t=Ay2UkewXRjiQU7Hs-1
 
 ## 🙌 Acknowledgment
 
